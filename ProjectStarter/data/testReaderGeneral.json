@@ -1,0 +1,20 @@
+{
+    "applications": [
+        {
+            "id": 1,
+            "companyName": "apple",
+            "position": "janitor",
+            "status": "IN_REVIEW",
+            "notes": ["hello", "world"], 
+            "date": "2025-03-02"
+        },
+        {
+            "id": 2,
+            "companyName": "microsoft",
+            "position": "janitor",
+            "status": "INTERVIEW_PENDING",
+            "notes": ["goodbye"], 
+            "date": "2025-03-01"
+        }
+    ]
+}

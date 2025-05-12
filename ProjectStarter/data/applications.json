@@ -1,0 +1,42 @@
+{"applications": [
+    {
+        "date": "2025-03-25",
+        "notes": ["hello "],
+        "companyName": "a",
+        "id": 6,
+        "position": "a",
+        "status": "IN_REVIEW"
+    },
+    {
+        "date": "2025-03-25",
+        "notes": [],
+        "companyName": "Amazon",
+        "id": 3,
+        "position": "Data Scientist",
+        "status": "ACCEPTED"
+    },
+    {
+        "date": "2025-03-09",
+        "notes": [],
+        "companyName": "Apple",
+        "id": 5,
+        "position": "Product Manager",
+        "status": "REJECTED"
+    },
+    {
+        "date": "2025-03-10",
+        "notes": [],
+        "companyName": "Facebook",
+        "id": 2,
+        "position": "Product Manager",
+        "status": "ACCEPTED"
+    },
+    {
+        "date": "2025-03-11",
+        "notes": [],
+        "companyName": "Microsoft",
+        "id": 4,
+        "position": "Software Engineer",
+        "status": "IN_REVIEW"
+    }
+]}

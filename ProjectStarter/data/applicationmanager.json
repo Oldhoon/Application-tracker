@@ -1,0 +1,26 @@
+{"applications": [
+    {
+        "date": "2025-03-02",
+        "notes": [],
+        "companyName": "a",
+        "id": 1,
+        "position": "a",
+        "status": "REJECTED"
+    },
+    {
+        "date": "2025-03-02",
+        "notes": [],
+        "companyName": "k",
+        "id": 2,
+        "position": "k",
+        "status": "IN_REVIEW"
+    },
+    {
+        "date": "2025-03-05",
+        "notes": [],
+        "companyName": "a",
+        "id": 3,
+        "position": "a",
+        "status": "IN_REVIEW"
+    }
+]}

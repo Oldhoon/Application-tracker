@@ -1,0 +1,21 @@
+{"applications": [
+    {
+        "date": "2025-03-02",
+        "notes": ["hello"],
+        "companyName": "a",
+        "id": 24,
+        "position": "a",
+        "status": "INTERVIEW_PENDING"
+    },
+    {
+        "date": "2025-03-02",
+        "notes": [
+            "goodbye",
+            "world"
+        ],
+        "companyName": "b",
+        "id": 25,
+        "position": "b",
+        "status": "REJECTED"
+    }
+]}
